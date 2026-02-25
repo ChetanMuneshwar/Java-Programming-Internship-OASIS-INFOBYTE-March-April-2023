@@ -1,4 +1,5 @@
-# Java-Programming-Internship-OASIS-INFOBYTE-March-April-2023
+# Java Programming Internship: OASIS-INFOBYTE 
+Duration: 1 Month (March 2023-April 2023)
 
 • Gained practical experience in Core Java with a strong focus on object-oriented programming principles.
 
